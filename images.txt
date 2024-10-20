@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 jinshanyun/jinshan-x86_64:latest
 xzxxn777/ddddocr:latest
+mtphotos/mt-photos:latest
