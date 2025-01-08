@@ -6,3 +6,4 @@ xhofe/alist:latest
 jinshanyun/jinshan-x86_64:latest
 xzxxn777/ddddocr:latest
 mtphotos/mt-photos:latest
+homeassistant/home-assistant:latest
