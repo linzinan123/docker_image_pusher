@@ -7,3 +7,4 @@ jinshanyun/jinshan-x86_64:latest
 xzxxn777/ddddocr:latest
 mtphotos/mt-photos:latest
 homeassistant/home-assistant:latest
+whyour/qinglong:2.17.12
